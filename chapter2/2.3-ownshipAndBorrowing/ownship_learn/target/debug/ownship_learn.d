@@ -1,0 +1,1 @@
+/home/skyzcyou/ProjectWarehouse/RustProjects/course.rs.learn/chapter2/2.3-ownshipAndBorrowing/ownship_learn/target/debug/ownship_learn: /home/skyzcyou/ProjectWarehouse/RustProjects/course.rs.learn/chapter2/2.3-ownshipAndBorrowing/ownship_learn/src/main.rs

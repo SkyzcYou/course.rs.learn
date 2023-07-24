@@ -1,0 +1,1 @@
+/home/skyzcyou/ProjectWarehouse/RustProjects/course.rs.learn/chapter2/2.2-base-type/type-derivation-and-annotaion/target/debug/type-derivation-and-annotaion: /home/skyzcyou/ProjectWarehouse/RustProjects/course.rs.learn/chapter2/2.2-base-type/type-derivation-and-annotaion/src/main.rs
