@@ -1,0 +1,1 @@
+/home/skyzcyou/ProjectWarehouse/RustProjects/course.rs.learn/chapter2/2.4-complex-type/intro-complex-type/target/debug/intro-complex-type: /home/skyzcyou/ProjectWarehouse/RustProjects/course.rs.learn/chapter2/2.4-complex-type/intro-complex-type/src/main.rs
